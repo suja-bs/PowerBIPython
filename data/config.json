@@ -1,0 +1,18 @@
+{
+  "credentials": {
+    "email": "Aezion@devallcs.com",
+    "password": "Deval@00"
+  },
+  "workspace": {
+    "name": "Deval_EDW_Report_WS"
+  },
+  "report": {
+    "url": "https://app.powerbi.com/groups/1165e480-bdf3-4655-a039-8d8078ec7589/reports/2014f716-c14d-4cab-901f-9cc83a0dfe37/cc8749f7e9f6dc872b28?experience=power-bi",
+    "search_term": "5.8",
+    "default_page_tab": "Bookmark"
+  },
+  "browser": {
+    "headless": false,
+    "timeout_ms": 60000
+  }
+}
