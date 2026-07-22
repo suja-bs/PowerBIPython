@@ -1,7 +1,7 @@
 {
   "credentials": {
-    "email": "Aezio",
-    "password": "Deval@00"
+    "email": "Aezio", ##needs to gove original email
+    "password": "Deval@00"##needs to gove original password
   },
   "workspace": {
     "name": "Deval_EDW_Report_WS"
